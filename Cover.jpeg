@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>McBride’s Aviation Horror Show</title>
+    <style>
+        body {
+            background-color: #111;
+            color: #eee;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        img {
+            width: 300px;
+            margin: 20px 0;
+            border: 2px solid #eee;
+            border-radius: 8px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #f1c40f;
+            color: #000;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>McBride’s Aviation Horror Show</h1>
+    <img src="cover.jpg" alt="Book Cover" />
+    <h2>By MooseLeeMcBride</h2>
+    <p>PFC McBride and his tragically dysfunctional Army aviation crew face cursed Apaches, socket-wielding gremlins, and maintenance rituals that defy safety brief logic. This dark military comedy is Brickleberry meets barracks insanity.</p>
+    <a class="btn" href="https://www.amazon.com/dp/B0FFMNSCHZ" target="_blank">📘 Buy on Amazon</a>
+</body>
+</html>
